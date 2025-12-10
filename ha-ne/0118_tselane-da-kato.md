@@ -172,4 +172,4 @@ garinsu!
 * Text: Lorato Trok
 * Illustration: Catherine Groenewald
 * Translation: Plan Niger - Projet NECS - Usaid
-* Language: ha
+* Language: ha-ne

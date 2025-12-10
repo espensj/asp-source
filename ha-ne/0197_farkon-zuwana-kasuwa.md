@@ -124,4 +124,4 @@ wannan jirgin na roba na gani.
 * Text: Timothy Kabare, Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Plan Niger - Projet NECS - Usaid
-* Language: ha
+* Language: ha-ne

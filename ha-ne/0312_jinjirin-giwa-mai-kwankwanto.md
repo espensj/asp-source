@@ -107,4 +107,4 @@ shi.
 * Text: Judith Baker, Lorato Trok
 * Illustration: Wiehan de Jager
 * Adaptation: Plan Niger - Projet NECS - Usaid, avec la contribution du Comité ASL
-* Language: ha
+* Language: ha-ne

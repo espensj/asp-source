@@ -94,4 +94,4 @@ abu.»
 * Text: Salaama Wanale
 * Illustration: Mango Tree
 * Adaptation: Plan Niger - Projet NECS - Usaid, avec la contribution du comité asl du projet necs
-* Language: ha
+* Language: ha-ne

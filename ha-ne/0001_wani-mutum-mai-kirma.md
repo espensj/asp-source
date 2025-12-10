@@ -53,4 +53,4 @@ shekaru da dama.
 * Text: Cornelius Gulere
 * Illustration: Catherine Groenewald
 * Translation: Plan Niger - Projet NECS - Usaid
-* Language: ha
+* Language: ha-ne

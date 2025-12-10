@@ -125,4 +125,4 @@ arziki dayawa tare da jin daɗi.
 * Text: Matthews M Wanga
 * Illustration: Wiehan de Jager
 * Translation: Plan Niger - Projet NECS - Usaid
-* Language: ha
+* Language: ha-ne

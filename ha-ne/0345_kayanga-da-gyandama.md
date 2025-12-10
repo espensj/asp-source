@@ -94,4 +94,4 @@ Duk wani shairi baya samunta.
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Plan Niger - Projet NECS - Usaid
-* Language: ha
+* Language: ha-ne

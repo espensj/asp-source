@@ -142,4 +142,4 @@ kaɗai.
 * Text: Sarah Nangobi
 * Illustration: Wiehan de Jager
 * Translation: Plan Niger - Projet NECS - Usaid
-* Language: ha
+* Language: ha-ne

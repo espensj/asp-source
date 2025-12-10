@@ -41,4 +41,4 @@ ma’aifiyarta a gida.
 * Text: Annet Ssebaggala
 * Illustration: Genevieve Terblanche, Wiehan de Jager, Vusi Malindi, Karlien de Villiers
 * Translation: Plan Niger - Projet NECS - Usaid
-* Language: ha
+* Language: ha-ne
